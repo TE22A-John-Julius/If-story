@@ -1,0 +1,14 @@
+C:\Users\julius.john\Documents\Programmering_Uppgifter\StoryIf\StoryIf\bin\Debug\net7.0\StoryIf.exe
+C:\Users\julius.john\Documents\Programmering_Uppgifter\StoryIf\StoryIf\bin\Debug\net7.0\StoryIf.deps.json
+C:\Users\julius.john\Documents\Programmering_Uppgifter\StoryIf\StoryIf\bin\Debug\net7.0\StoryIf.runtimeconfig.json
+C:\Users\julius.john\Documents\Programmering_Uppgifter\StoryIf\StoryIf\bin\Debug\net7.0\StoryIf.dll
+C:\Users\julius.john\Documents\Programmering_Uppgifter\StoryIf\StoryIf\bin\Debug\net7.0\StoryIf.pdb
+C:\Users\julius.john\Documents\Programmering_Uppgifter\StoryIf\StoryIf\obj\Debug\net7.0\StoryIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julius.john\Documents\Programmering_Uppgifter\StoryIf\StoryIf\obj\Debug\net7.0\StoryIf.AssemblyInfoInputs.cache
+C:\Users\julius.john\Documents\Programmering_Uppgifter\StoryIf\StoryIf\obj\Debug\net7.0\StoryIf.AssemblyInfo.cs
+C:\Users\julius.john\Documents\Programmering_Uppgifter\StoryIf\StoryIf\obj\Debug\net7.0\StoryIf.csproj.CoreCompileInputs.cache
+C:\Users\julius.john\Documents\Programmering_Uppgifter\StoryIf\StoryIf\obj\Debug\net7.0\StoryIf.dll
+C:\Users\julius.john\Documents\Programmering_Uppgifter\StoryIf\StoryIf\obj\Debug\net7.0\refint\StoryIf.dll
+C:\Users\julius.john\Documents\Programmering_Uppgifter\StoryIf\StoryIf\obj\Debug\net7.0\StoryIf.pdb
+C:\Users\julius.john\Documents\Programmering_Uppgifter\StoryIf\StoryIf\obj\Debug\net7.0\StoryIf.genruntimeconfig.cache
+C:\Users\julius.john\Documents\Programmering_Uppgifter\StoryIf\StoryIf\obj\Debug\net7.0\ref\StoryIf.dll
